@@ -1,0 +1,17 @@
+<TiendaMoviles>
+    <Movil marca="Samsung" estado="nuevo">
+        <Modelo>Galaxy S23</Modelo>
+        <Almacenamiento>256GB</Almacenamiento>
+        <Precio>850</Precio>
+    </Movil>
+    <Movil marca="Apple" estado="reacondicionado">
+        <Modelo>iPhone 13</Modelo>
+        <Almacenamiento>128GB</Almacenamiento>
+        <Precio>500</Precio>
+    </Movil>
+    <Movil marca="Xiaomi" estado="nuevo">
+        <Modelo>Redmi Note 12</Modelo>
+        <Almacenamiento>128GB</Almacenamiento>
+        <Precio>200</Precio>
+    </Movil>
+</TiendaMoviles>
