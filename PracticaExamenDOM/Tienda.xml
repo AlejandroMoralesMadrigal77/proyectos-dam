@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tienda>
+                
+    
+    
+    <Videojuego plataforma="PS5">
+                                
+        
+        
+        <Titulo>Spider-Man 2</Titulo>
+                                
+        
+        
+        <Precio>70</Precio>
+                                
+        
+        
+        <Stock>5</Stock>
+                            
+    
+    
+    </Videojuego>
+                
+    
+    
+    <Videojuego plataforma="Switch">
+                                
+        
+        
+        <Titulo>Zelda Tears of the Kingdom</Titulo>
+                                
+        
+        
+        <Precio>60</Precio>
+                                
+        
+        
+        <Stock>3</Stock>
+                            
+    
+    
+    </Videojuego>
+                
+    
+    
+    <Videojuego plataforma="PC">
+                                
+        
+        
+        <Titulo>Cyberpunk 2077</Titulo>
+                                
+        
+        
+        <Precio>40</Precio>
+                                
+        
+        
+        <Stock>0</Stock>
+                            
+    
+    
+    </Videojuego>
+            
+
+    
+    <Videojuego plataforma="PS5">
+                
+        <Titulo>Teken</Titulo>
+                
+        <Precio>30</Precio>
+                
+        <Stock>4</Stock>
+            
+    </Videojuego>
+    
+    <Videojuego plataforma="PSOne">
+        <Titulo>Teken</Titulo>
+        <Precio>30</Precio>
+        <Stock>4</Stock>
+    </Videojuego>
+</Tienda>
